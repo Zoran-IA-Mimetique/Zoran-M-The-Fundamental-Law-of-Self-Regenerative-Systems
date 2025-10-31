@@ -1,0 +1,12 @@
+Creative‑Ethic BY v1.0
+
+Short summary:
+- Attribution required: any use must cite the original DOI and author.
+- Non‑commercial: commercial use is prohibited without prior written license from the author.
+- No proprietary derivatives: derived artifacts that close source or remove traceability are forbidden.
+- No military/surveillance use: any use that facilitates lethal autonomous systems, covert surveillance, or other harmful purposes is prohibited.
+
+Full terms: This work is released under the Creative‑Ethic BY v1.0 license.
+By using, copying, or redistributing the work, you agree to the full legal terms. For licensing for commercial or other restricted usage, contact: tabary01@gmail.com.
+
+(For production, have this license text checked and notarized by counsel.)

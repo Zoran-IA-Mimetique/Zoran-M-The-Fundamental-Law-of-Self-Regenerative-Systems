@@ -1,0 +1,12 @@
+.PHONY: all reproduce_example checksum
+
+all: checksum
+
+checksum:
+	./scripts/gen_sha512.sh
+
+reproduce_example:
+	python3 scripts/compute_deltamo.py sample_logs/example_logs.jsonl
+
+zip_package:
+	zip -r ../ZORAN_DeltaMOmega_GHUC_v1.0.zip . -x .git\* pycache\*

@@ -1,0 +1,6 @@
+# Generate actual SHA-512 hashes with scripts/gen_sha512.sh
+# Example placeholder format:
+# <sha512sum>  filename
+
+5e06b9c3b9c4f82eb1d7f52ed221fb707dbc29664498c0d8aad4dcb332daf41c2cd851e8fadecbf8f82212263be8d7ead743679c864d4f8e48954958349134b7  DELTAMO_EQN.png
+<compute-and-fill>  paper.md

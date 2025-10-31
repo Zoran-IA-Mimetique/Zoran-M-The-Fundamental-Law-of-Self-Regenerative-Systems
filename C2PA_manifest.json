@@ -1,0 +1,11 @@
+{
+  "format": "C2PA-manifest-experimental-v1",
+  "content": {
+    "title": "ΔMΩ — The Zoran Equation: Operational Law of Mimetic Resilience",
+    "author": "Frédéric Tabary — Institut🦋 IA Lab Inc.",
+    "doi": "10.5281/zenodo.17490179",
+    "sha512": "<fill-with-sha512-of-paper.md>",
+    "signature": "C2PA placeholder: sign using C2PA tools before release",
+    "notes": "This manifest is a template. Use the official C2PA toolchain to sign images and PDF assets."
+  }
+}

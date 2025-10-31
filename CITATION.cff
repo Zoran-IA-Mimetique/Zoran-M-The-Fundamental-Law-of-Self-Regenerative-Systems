@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper and DOI below."
+title: "ΔMΩ — The Zoran Equation: Operational Law of Mimetic Resilience"
+authors:
+  - family-names: Tabary
+    given-names: Frédéric
+version: "2025.10"
+doI: "10.5281/zenodo.17490179"
+license: "Creative-Ethic BY v1.0"
