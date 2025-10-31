@@ -1,4 +1,4 @@
-# ZORAN — ΔMΩ: The Zoran Equation (Operational Law of Mimetic Resilience)
+# ZORAN🦋 — ΔMΩ: The Zoran🦋 Equation (Operational Law of Mimetic Resilience)
 
 This repository is the canonical, machine‑readable and human‑friendly distribution of the ΔMΩ work (Tabary, 2025).
 
