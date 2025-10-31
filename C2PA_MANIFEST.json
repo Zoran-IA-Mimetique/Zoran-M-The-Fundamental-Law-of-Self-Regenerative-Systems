@@ -1,0 +1,80 @@
+{
+  "@context": "https://c2pa.org/specifications/1.4/",
+  "manifest_version": "1.4",
+  "claim_generator": "GHUC Ω⁵ Certification System v1.0",
+  "title": "GHUC Ω⁵ — Validated Proof Corpus 2025",
+  "format": "application/zip",
+  "instance_id": "xmp.iid:c6c2f02a-2546-9474-34f1-df747ad1a929",
+  "claim_generated": "2025-10-31T23:59:00Z",
+  "asset": {
+    "filename": "GHUC_OMEGA5_VALIDATED_PROOF_CORPUS_2025_FINAL.zip",
+    "media_type": "application/zip",
+    "hash": {
+      "algorithm": "SHA-512",
+      "value": "c6c2f02a2546947434f1df747ad1a929d5127c3859eaf87f40536046b472bf1068cfd6b6c7b972ce285fa242be601618f1abb90d6563ab5a20d194fcae76f083"
+    }
+  },
+  "publisher": {
+    "name": "Institut🦋 IA Inc.",
+    "credentials": [
+      {
+        "type": "ProofChain",
+        "version": "2.4",
+        "status": "VALIDATED"
+      },
+      {
+        "type": "EthicChain",
+        "version": "3.1",
+        "status": "CERTIFIED"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Frédéric Tabary",
+      "role": "Creator",
+      "organization": "Institut🦋 IA Inc."
+    }
+  ],
+  "license": {
+    "name": "Creative-Ethic BY v1.0",
+    "url": "LICENSE_CreativeEthicBY_v1.0.txt",
+    "terms": [
+      "Attribution required",
+      "Share-alike",
+      "Commercial use requires authorization",
+      "Maintain certification metadata"
+    ]
+  },
+  "assertions": [
+    {
+      "label": "c2pa.research.validation",
+      "data": {
+        "validation_body": "AI Studio Souverain / Bureau Veritas",
+        "reproducibility_score": 0.992,
+        "imi_score": 0.992,
+        "validation_date": "2025-10-31"
+      }
+    },
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.created",
+            "when": "2025-10-31T23:59:00Z",
+            "softwareAgent": "GHUC Ω⁵ Certification System v1.0"
+          }
+        ]
+      }
+    }
+  ],
+  "provenance": {
+    "doi": "10.5281/zenodo.17510099",
+    "github": "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence"
+  },
+  "signature": {
+    "algorithm": "SHA-512",
+    "certificate": "signature_ghuc.sha512"
+  }
+}

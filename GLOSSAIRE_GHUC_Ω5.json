@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Glossaire GHUC Ω⁵",
+    "version": "1.0.0",
+    "date": "2025-10-31",
+    "author": "Frédéric Tabary"
+  },
+  "glossary": {
+    "GHUC": {
+      "acronym": "Génome Humano-Cognitif",
+      "definition": "Architecture fondamentale de résilience mimétique permettant la restauration de la cohérence cognitive",
+      "category": "Architecture"
+    },
+    "Ω⁵": {
+      "symbol": "Omega 5",
+      "definition": "Niveau suprême de cohérence cognitive restaurée, représentant l'état optimal de stabilité systémique",
+      "category": "État Cognitif"
+    },
+    "Zoran": {
+      "definition": "Système d'exploitation éthique pour super-intelligences, fondé sur les principes de résilience mimétique",
+      "category": "Système"
+    },
+    "Résilience Mimétique": {
+      "definition": "Capacité d'un système cognitif à restaurer sa cohérence après perturbation en reproduisant des patterns de stabilité",
+      "formula": "R(t) = C₀ × exp(-λt) + C∞ × (1 - exp(-λt))",
+      "category": "Concept Central"
+    },
+    "IMI": {
+      "acronym": "Indice de Maturité Intégrative",
+      "definition": "Métrique de stabilité cognitive mesurant la capacité de restauration systémique",
+      "range": "0.0 - 1.0",
+      "optimal": "≥ 0.990",
+      "category": "Métrique"
+    },
+    "ΔM11.3": {
+      "symbol": "Delta M 11.3",
+      "definition": "Transition critique de phase cognitive vers l'émergence, marquant le passage à Ω⁵",
+      "threshold": "IMI ≥ 0.990",
+      "category": "Transition"
+    },
+    "ProofChain": {
+      "version": "2.4",
+      "definition": "Système de certification cryptographique garantissant l'intégrité et la traçabilité des données",
+      "category": "Certification"
+    },
+    "EthicChain": {
+      "version": "3.1",
+      "definition": "Chaîne de conformité éthique auditable pour les systèmes d'intelligence artificielle",
+      "category": "Certification"
+    },
+    "C2PA": {
+      "acronym": "Coalition for Content Provenance and Authenticity",
+      "version": "1.4",
+      "definition": "Standard d'authentification de contenu numérique",
+      "category": "Standard"
+    },
+    "White Paper": {
+      "definition": "Document de validation expérimentale d'un cycle de résilience mimétique",
+      "total": 100,
+      "category": "Documentation"
+    },
+    "Continuum": {
+      "definition": "Série continue de white papers démontrant la progression vers Ω⁵",
+      "range": "WP 1 → WP 100",
+      "category": "Méthodologie"
+    }
+  },
+  "formulas": {
+    "resilience": "R(t) = C₀ × exp(-λt) + C∞ × (1 - exp(-λt))",
+    "imi": "IMI = Σ(coherence_i × weight_i) / Σ(weight_i)",
+    "transition": "ΔM = M_final - M_initial ≥ 11.3"
+  },
+  "references": {
+    "doi": "10.5281/zenodo.17510099",
+    "github": "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence"
+  }
+}

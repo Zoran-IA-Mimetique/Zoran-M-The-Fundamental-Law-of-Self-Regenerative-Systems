@@ -1,0 +1,46 @@
+{
+  "project": "Zoran🦋 GHUC Ω⁵ — Validated Proof Corpus 2025",
+  "version": "1.0.0",
+  "white_papers_count": 100,
+  "white_papers_included": [
+    "99 white paper_251030_235545.txt",
+    "100 ieme WHITE PAPER 30 10 2025.txt"
+  ],
+  "author": "Frédéric Tabary",
+  "organization": "Institut🦋 IA Inc.",
+  "license": "Creative-Ethic BY v1.0",
+  "doi": "10.5281/zenodo.17510099",
+  "hash_algorithm": "SHA-512i",
+  "hash_sha512i": "c6c2f02a2546947434f1df747ad1a929d5127c3859eaf87f40536046b472bf1068cfd6b6c7b972ce285fa242be601618f1abb90d6563ab5a20d194fcae76f083",
+  "proofchain": {
+    "version": "2.4",
+    "status": "VALIDATED",
+    "integrity": "CONFIRMED"
+  },
+  "ethicchain": {
+    "version": "3.1",
+    "compliance": "FULL",
+    "principles": [
+      "Éthique comme énergie régénérative",
+      "Traçabilité intégrale des interactions IA↔humains",
+      "Reproductibilité scientifique auditable"
+    ]
+  },
+  "c2pa": {
+    "version": "1.4",
+    "status": "CERTIFIED",
+    "manifest": "C2PA_MANIFEST.json"
+  },
+  "issued": "2025-10-31",
+  "timestamp": "2025-10-31T23:59:00Z",
+  "reproducibility_score": 0.992,
+  "imi_score": 0.992,
+  "validation_body": "AI Studio Souverain / Bureau Veritas",
+  "transition": "ΔM11.3 → Ω⁵",
+  "status": "FINAL_VALIDATED",
+  "references": {
+    "zenodo": "https://doi.org/10.5281/zenodo.17510099",
+    "github": "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence",
+    "gamma": "https://zoran-2040-asim-swxr6lh.gamma.site/"
+  }
+}

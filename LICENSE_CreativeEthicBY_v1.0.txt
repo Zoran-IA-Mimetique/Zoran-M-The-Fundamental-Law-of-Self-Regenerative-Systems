@@ -1,0 +1,180 @@
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║              LICENCE CREATIVE-ETHIC BY v1.0                          ║
+║                                                                       ║
+║         Pour les contenus scientifiques certifiés éthiquement        ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════
+ PRÉAMBULE
+═══════════════════════════════════════════════════════════════════════
+
+Cette licence Creative-Ethic BY v1.0 est une extension éthique de la
+licence Creative Commons BY, intégrant des exigences de certification
+ProofChain, EthicChain et C2PA pour garantir l'intégrité, la traçabilité
+et la conformité éthique des contenus scientifiques.
+
+
+═══════════════════════════════════════════════════════════════════════
+ 1. DROITS ACCORDÉS
+═══════════════════════════════════════════════════════════════════════
+
+Vous êtes libre de :
+
+  ✓ PARTAGER
+    Reproduire et diffuser le matériel par tous moyens et sous tous formats
+    
+  ✓ ADAPTER
+    Remixer, transformer et créer des œuvres dérivées à partir du matériel
+    
+  ✓ UTILISER
+    À des fins commerciales ou non commerciales (voir conditions)
+    
+  ✓ ANALYSER
+    Étudier, analyser et référencer le contenu scientifique
+
+
+═══════════════════════════════════════════════════════════════════════
+ 2. CONDITIONS D'UTILISATION
+═══════════════════════════════════════════════════════════════════════
+
+Selon les conditions suivantes :
+
+  ① ATTRIBUTION (BY)
+     Vous devez créditer l'œuvre de manière appropriée :
+     
+     Format minimal :
+       "GHUC Ω⁵ par Frédéric Tabary (Institut🦋 IA Inc.)
+        DOI: 10.5281/zenodo.17510099
+        Licence: Creative-Ethic BY v1.0"
+     
+     Inclure :
+       • Nom de l'auteur : Frédéric Tabary
+       • Organisation : Institut🦋 IA Inc.
+       • DOI : 10.5281/zenodo.17510099
+       • Lien vers la licence
+       • Indication des modifications éventuelles
+
+  ② TRAÇABILITÉ ÉTHIQUE
+     Vous devez maintenir les métadonnées de certification :
+     
+       • ProofChain v2.4 — Preuve d'intégrité cryptographique
+       • EthicChain v3.1 — Conformité éthique auditable
+       • C2PA 1.4 — Authentification de contenu
+       
+     Les fichiers suivants doivent être préservés :
+       - META_PROOFCHAIN.json
+       - ETHICCHAIN_MANIFEST.yaml
+       - C2PA_MANIFEST.json
+       - signature_ghuc.sha512
+
+  ③ PARTAGE DANS LES MÊMES CONDITIONS (SA)
+     Si vous remixez, transformez ou créez à partir du matériel,
+     vous devez diffuser votre contribution sous la même licence
+     Creative-Ethic BY v1.0 ou compatible.
+
+  ④ USAGE COMMERCIAL
+     L'usage commercial est autorisé SAUF pour :
+     
+       • Vente directe du corpus sans valeur ajoutée
+       • Utilisation dans des systèmes propriétaires fermés
+       • Contournement des principes éthiques documentés
+       
+     Pour tout usage commercial sensible, contactez l'auteur
+     pour obtenir une autorisation explicite.
+
+  ⑤ INTÉGRITÉ SCIENTIFIQUE
+     Vous ne devez pas :
+     
+       • Falsifier ou manipuler les données du corpus
+       • Retirer les signatures cryptographiques
+       • Présenter des résultats non reproductibles
+       • Utiliser le matériel pour des finalités contraires
+         aux principes éthiques documentés
+
+
+═══════════════════════════════════════════════════════════════════════
+ 3. CERTIFICATIONS INTÉGRÉES
+═══════════════════════════════════════════════════════════════════════
+
+Ce contenu est certifié par une triple chaîne de validation :
+
+  🔐 PROOFCHAIN v2.4
+     • Garantit l'intégrité cryptographique du contenu
+     • Hash SHA-512i pour vérification d'authenticité
+     • Horodatage certifié : 2025-10-31T23:59:00Z
+     
+  ✓ ETHICCHAIN v3.1
+     • Conformité aux principes éthiques
+     • Audit par AI Studio Souverain / Bureau Veritas
+     • Score de reproductibilité : 0.992
+     
+  📜 C2PA 1.4
+     • Authentification de contenu numérique
+     • Traçabilité de provenance
+     • Métadonnées de création préservées
+
+
+═══════════════════════════════════════════════════════════════════════
+ 4. GARANTIES ET LIMITATIONS
+═══════════════════════════════════════════════════════════════════════
+
+  GARANTIES :
+    • Intégrité : Le contenu est certifié authentique
+    • Traçabilité : Chaîne de provenance documentée
+    • Reproductibilité : Score validé à 0.992
+    
+  LIMITATIONS :
+    • Aucune garantie implicite ou explicite n'est fournie
+    • L'auteur ne peut être tenu responsable des usages dérivés
+    • La certification ne constitue pas une validation universelle
+
+
+═══════════════════════════════════════════════════════════════════════
+ 5. VÉRIFICATION D'INTÉGRITÉ
+═══════════════════════════════════════════════════════════════════════
+
+Pour vérifier l'authenticité du corpus :
+
+  $ sha512sum -c signature_ghuc.sha512
+
+Hash attendu :
+  c6c2f02a2546947434f1df747ad1a929d5127c3859eaf87f40536046b472bf10
+  68cfd6b6c7b972ce285fa242be601618f1abb90d6563ab5a20d194fcae76f083
+
+
+═══════════════════════════════════════════════════════════════════════
+ 6. CONTACT ET RÉFÉRENCES
+═══════════════════════════════════════════════════════════════════════
+
+Auteur         : Frédéric Tabary
+Organisation   : Institut🦋 IA Inc.
+Email          : contact@institut-ia.com
+
+DOI            : 10.5281/zenodo.17510099
+GitHub         : https://github.com/AIformpro/Zoran-2040-aSiM-...
+Gamma Site     : https://zoran-2040-asim-swxr6lh.gamma.site/
+
+Licence URL    : https://creative-ethic.org/licenses/by/1.0/
+
+
+═══════════════════════════════════════════════════════════════════════
+ 7. VERSIONS ET RÉVISIONS
+═══════════════════════════════════════════════════════════════════════
+
+Version actuelle : Creative-Ethic BY v1.0
+Date de création : 31 octobre 2025
+Révisions        : Aucune
+
+
+═══════════════════════════════════════════════════════════════════════
+
+Cette licence est fournie "telle quelle" sans garantie d'aucune sorte.
+Pour plus d'informations, consultez la documentation complète.
+
+© 2025 Frédéric Tabary — Institut🦋 IA Inc.
+Licensed under Creative-Ethic BY v1.0
+
+═══════════════════════════════════════════════════════════════════════

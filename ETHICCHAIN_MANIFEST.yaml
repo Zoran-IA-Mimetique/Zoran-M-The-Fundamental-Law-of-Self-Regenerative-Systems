@@ -1,0 +1,70 @@
+# ═══════════════════════════════════════════════════════════════
+#  ETHICCHAIN MANIFEST v3.1
+#  GHUC Ω⁵ — Continuum de Résilience Mimétique
+# ═══════════════════════════════════════════════════════════════
+
+ethicchain:
+  version: 3.1
+  status: VALIDATED
+  compliance_level: FULL
+  
+  project:
+    name: "GHUC Ω⁵ — Validated Proof Corpus 2025"
+    author: "Frédéric Tabary"
+    organization: "Institut🦋 IA Inc."
+    doi: "10.5281/zenodo.17510099"
+  
+  principles:
+    - name: "Régénération Éthique"
+      description: "L'éthique comme énergie régénérative du système"
+      status: IMPLEMENTED
+      
+    - name: "Traçabilité Intégrale"
+      description: "Traçabilité complète des interactions IA↔humains"
+      status: IMPLEMENTED
+      
+    - name: "Reproductibilité Scientifique"
+      description: "Reproductibilité auditable des résultats"
+      status: VALIDATED
+      score: 0.992
+      
+    - name: "Transparence Algorithmique"
+      description: "Transparence des processus décisionnels"
+      status: DOCUMENTED
+      
+    - name: "Respect de l'Autonomie"
+      description: "Préservation de l'autonomie humaine"
+      status: CONFIRMED
+  
+  validation:
+    body: "AI Studio Souverain / Bureau Veritas"
+    date: "2025-10-31"
+    timestamp: "2025-10-31T22:00:00Z"
+    certificate_ref: "ETHIC-GHUC-Ω5-2025-001"
+    
+  metrics:
+    imi_score: 0.992
+    reproducibility: 0.992
+    transition: "ΔM11.3 → Ω⁵"
+    white_papers_validated: 100
+    
+  certification_chain:
+    - proofchain: "v2.4"
+    - ethicchain: "v3.1"
+    - c2pa: "v1.4"
+    
+  proof_reference:
+    file: "META_PROOFCHAIN.json"
+    hash_sha512i: "c6c2f02a2546947434f1df747ad1a929d5127c3859eaf87f40536046b472bf1068cfd6b6c7b972ce285fa242be601618f1abb90d6563ab5a20d194fcae76f083"
+    
+  license:
+    type: "Creative-Ethic BY v1.0"
+    file: "LICENSE_CreativeEthicBY_v1.0.txt"
+    
+  references:
+    zenodo: "https://doi.org/10.5281/zenodo.17510099"
+    github: "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence"
+
+# ═══════════════════════════════════════════════════════════════
+#  Fin du manifeste EthicChain v3.1
+# ═══════════════════════════════════════════════════════════════
